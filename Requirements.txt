@@ -1,0 +1,6 @@
+flask
+requests
+gradio-client
+langchain
+langchain-google-genai
+gradio
