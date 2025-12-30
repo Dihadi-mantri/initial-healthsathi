@@ -1,6 +1,5 @@
-flask
-requests
-gradio-client
-langchain
-langchain-google-genai
-gradio
+Flask
+gradio_client
+twilio
+gunicorn
+python-dotenv
